@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-product-with-context/static/css/main.84b85cbb.css",
+    "main.js": "/react-product-with-context/static/js/main.b31c719d.js",
+    "index.html": "/react-product-with-context/index.html",
+    "main.84b85cbb.css.map": "/react-product-with-context/static/css/main.84b85cbb.css.map",
+    "main.b31c719d.js.map": "/react-product-with-context/static/js/main.b31c719d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84b85cbb.css",
+    "static/js/main.b31c719d.js"
+  ]
+}
